@@ -12,4 +12,4 @@ pip install numpy  etc...
 
 
 
- If u are facing any issues please do contact to sadineni123@gmail.com
+ If u are facing any issues please do contact to sadineniadarsh123@gmail.com
